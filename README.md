@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/aurelien_clere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aurelien_clere" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aurelien-clere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurelien-clere" height="30" width="40" /></a>
-<a href="/https://www.powerazure365.com/blog-1?format=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.powerazure365.com/blog-1?format=rss" height="30" width="40" /></a>
+<a href="https://www.powerazure365.com/blog-1?format=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.powerazure365.com/blog-1?format=rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
