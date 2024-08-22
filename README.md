@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **GitHub in D365 Finance Operations**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AurelienClere-365](https://github.com/AurelienClere-365)
+- 👨‍💻 All of my projects are available at [https://github.com/AurelienClere-365?tab=repositories](https://github.com/AurelienClere-365?tab=repositories)
 
 - 📝 I regularly write articles on [https://powerazure365.com](https://powerazure365.com)
 
