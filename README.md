@@ -19,6 +19,10 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aurelien-clere/](https://www.linkedin.com/in/aurelien-clere/)
 
+
+![image](https://github.com/user-attachments/assets/6f324398-227d-4b79-bace-a9aa15343347)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aurelien_clere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aurelien_clere" height="30" width="40" /></a>
@@ -31,6 +35,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aurelienclere"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aurelienclere" /></a></p><br><br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurelienclere-365&show_icons=true&locale=en&layout=compact" alt="aurelienclere-365" /></p>
 
